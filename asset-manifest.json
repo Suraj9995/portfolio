@@ -1,10 +1,23 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.e431d419.js",
+    "main.css": "/portfolio/static/css/main.e3b7afe9.css",
+    "main.js": "/portfolio/static/js/main.fbcd1a6e.js",
+    "static/media/Eczar-Bold.ttf": "/portfolio/static/media/Eczar-Bold.1e1b2b49e33482c2b0c2.ttf",
+    "static/media/Manrope-Regular.ttf": "/portfolio/static/media/Manrope-Regular.b1d694f660569a9a9ee6.ttf",
+    "static/media/project2.png": "/portfolio/static/media/project2.d404b7bb055ca850f259.png",
+    "static/media/project3.png": "/portfolio/static/media/project3.b7c502629e1e1e65976c.png",
+    "static/media/ProfileImg.jpg": "/portfolio/static/media/ProfileImg.08f188288de951b7f690.jpg",
+    "static/media/project1.png": "/portfolio/static/media/project1.78de7adb297745cea61e.png",
+    "static/media/github_icon.png": "/portfolio/static/media/github_icon.44eee0c4a6c25b0d7347.png",
+    "static/media/mail_icon.png": "/portfolio/static/media/mail_icon.0eee334841e063380344.png",
+    "static/media/twitter_icon.png": "/portfolio/static/media/twitter_icon.7163a1d69ec09d7e0dbd.png",
+    "static/media/facebook_icon.png": "/portfolio/static/media/facebook_icon.8d51a55626e9bf107f8f.png",
     "index.html": "/portfolio/index.html",
-    "main.e431d419.js.map": "/portfolio/static/js/main.e431d419.js.map"
+    "main.e3b7afe9.css.map": "/portfolio/static/css/main.e3b7afe9.css.map",
+    "main.fbcd1a6e.js.map": "/portfolio/static/js/main.fbcd1a6e.js.map"
   },
   "entrypoints": [
-    "static/js/main.e431d419.js"
+    "static/css/main.e3b7afe9.css",
+    "static/js/main.fbcd1a6e.js"
   ]
 }
