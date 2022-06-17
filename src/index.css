@@ -1,0 +1,76 @@
+@font-face {
+    font-family: Eczar;
+    src: url(./assets/Eczar-Bold.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: Manrope;
+    src: url(./assets/Manrope-Regular.ttf);
+}
+
+body{
+    text-align: center;
+    font-size: 25px;
+    /* padding: 2.5%; */
+    font-family: 'Manrope';
+}
+
+.Banner{
+    padding-top: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* height: 250px; */
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffffff+0,f1f1f1+41,f1f1f1+41,e1e1e1+93,e1e1e1+93,f6f6f6+100 */
+    background: rgb(255,255,255); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgb(255,255,255) 0%, rgb(241,241,241) 41%, rgb(241,241,241) 41%, rgb(225,225,225) 93%, rgb(225,225,225) 93%, rgb(246,246,246) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgb(255,255,255) 0%,rgb(241,241,241) 41%,rgb(241,241,241) 41%,rgb(225,225,225) 93%,rgb(225,225,225) 93%,rgb(246,246,246) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgb(255,255,255) 0%,rgb(241,241,241) 41%,rgb(241,241,241) 41%,rgb(225,225,225) 93%,rgb(225,225,225) 93%,rgb(246,246,246) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0 ); /* IE6-9 */
+}
+.Main-Profile-img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.Banner p{
+    margin: 10px;
+}
+
+.Main-Header{
+    margin: 0;
+}
+
+hr{
+    border: 1px solid rgb(128, 16, 16);
+}
+
+a{
+    text-decoration: none;
+}
+
+
+h1, h2, h3, h4, h5{
+    font-family: 'Eczar';
+}
+
+.btn {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Georgia;
+    color: #000000;
+    font-size: 25px;
+    background: #a3a9ad;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border: none;
+    margin: 10px 0;
+  }
+  
+  .btn:hover {
+    background: #446a82;
+    text-decoration: none;
+  }
