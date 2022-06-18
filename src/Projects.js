@@ -8,9 +8,9 @@ class Project extends Component{
         return(
             <div style={{ display: 'inline-block', width: 500, margin: 15}}>
             <h3>{title}</h3>
-            <img src={image} alt='project-img' style={{width: 400, height: 280}} />
+            <img src={image} alt='project-img' style={{width: 400, height: 300}} />
             <p>{description}</p>
-            <a href={link} target="_blank" rel="noreferrer noopener">{link}</a>
+            <a href={link} target="_blank" rel="noreferrer noopener"><button className='btn'>Link</button></a>
             </div>
         )
     }

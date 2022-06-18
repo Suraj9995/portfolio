@@ -6,7 +6,7 @@ const PROJECTS = [
     {
         id: 1,
         title: 'Simple Loading Animation',
-        description: 'This is simple Loading  Animation Screen, created with Only HTML5 and CSS3',
+        description: 'Eye-catching Loading Animation to the site to keep the users entertained while they are waiting for the rest of the site to load.',
         link: 'https://suraj9995.github.io/Loading-Screen-Animation/',
         image: project1
     },
