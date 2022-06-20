@@ -17,7 +17,7 @@ class App extends Component{
                 <div className="Banner">
                     <img className="Main-Profile-img" src={profile} alt='Main-profileimg' />
                 
-                <h1 className="Main-Header">Hello</h1>
+                <h1 className="Main-Header">Hello...</h1>
                 <p>My Name is Suraj. I'm a Front-End Developer</p>
                 <p>I'm always looking forward to working on meaningful projects.</p>
                 {

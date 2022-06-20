@@ -6,9 +6,9 @@ class Project extends Component{
         const { title, image, description, link } = this.props.project;
 
         return(
-            <div style={{ display: 'inline-block', width: 500, margin: 15}}>
+            <div style={{ display: 'inline-block', width: 500, margin: 25}}>
             <h3>{title}</h3>
-            <img src={image} alt='project-img' style={{width: 400, height: 300}} />
+            <img src={image} alt='project-img' style={{width: 450, height: 325}} />
             <p>{description}</p>
             <a href={link} target="_blank" rel="noreferrer noopener"><button className='btn'>Link</button></a>
             </div>

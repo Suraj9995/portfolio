@@ -1,6 +1,6 @@
-import project1 from '../assets/project1.png';
-import project2 from '../assets/project2.png';
-import project3 from '../assets/project3.png';
+import project1 from '../assets/projectgif1.gif';
+import project2 from '../assets/projectgif2.gif';
+import project3 from '../assets/projectgif3.gif';
 
 const PROJECTS = [
     {
